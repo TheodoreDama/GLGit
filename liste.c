@@ -24,6 +24,7 @@ void ajouter(liste l, void* element) {
     liste nouvellecase = creerliste();
     tmp->next=nouvellecase;
     //l=tmp;
+    //l=tmp //DAMA;
 }
 
 liste supprimer(liste l) {
